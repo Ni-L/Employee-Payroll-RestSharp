@@ -11,6 +11,7 @@ namespace Employee_Payroll_Restsharp
         static void Main(string[] args)
         {
             Console.WriteLine("WELCOME TO THE EMPLOYEE PAYROLL RESTSHARP");
+            Console.ReadLine();        
         }
     }
 }
